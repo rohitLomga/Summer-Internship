@@ -1,3 +1,5 @@
+// Profile Component
+
 import ProfileImage from './profile.png';
 
 import React, { useState } from "react";
